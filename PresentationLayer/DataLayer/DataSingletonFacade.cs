@@ -249,6 +249,15 @@ namespace DataLayer
 
         public void Save()
         {
+            try
+            {
+                StreamReader r = new StreamReader(SAVEPATH);
+            }
+            catch
+            {
+                Directory.CreateDirectory(SAVEPATH);
+            }
+
             using (StreamWriter file = new StreamWriter(SAVEPATH + "staff.csv"))
             {
                 file.AutoFlush = true;
