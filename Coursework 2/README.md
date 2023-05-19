@@ -6,6 +6,6 @@ and a data layer, which holds the majority of the programs functionality.
 
 Below is a class diagram showing the programs structure:
 
-![](cw2class.png)
+![](../img/cw2class.png)
 
 For a more in depth description of this program, please visit joseph-mitchell.github.io/projects/ObjectOrientedSoftwareDevelopment
