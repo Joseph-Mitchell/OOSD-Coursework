@@ -8,4 +8,4 @@ If an error is found in a any field, a popup window is opened informing the user
 
 Below are screenshots of the main form and a popup window example:
 
-![](../img/cw1form.png)********![](../img/cw1popup.png)
+![](../img/cw1form.png)          ![](../img/cw1popup.png)
