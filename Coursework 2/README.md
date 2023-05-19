@@ -8,4 +8,4 @@ Below is a class diagram showing the programs structure:
 
 ![](../img/cw2class.png)
 
-For a more in depth description of this program, please visit joseph-mitchell.github.io/projects/ObjectOrientedSoftwareDevelopment
+For a more in depth description of this program, please visit [joseph-mitchell.github.io/projects/ObjectOrientedSoftwareDevelopment](joseph-mitchell.github.io/projects/ObjectOrientedSoftwareDevelopment)
